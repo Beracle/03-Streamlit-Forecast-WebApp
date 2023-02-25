@@ -4,9 +4,6 @@
 
 虽然可以通过Django、Flask等技术构建Web App，但是它们对于非专业的编程者来说，初学是困难的。**Streamlit是一种快速搭建数据可视化APP的技术**。它上手简单，并且能够提供一些操作简单的交互式控件。
 
-[video(video-IgAz6inn-1611480921981)(type-csdn)(url-https://live.csdn.net/v/embed/146941)(image-https://vedu.csdnimg.cn/e60b4994719e41cb8f7070a016f847ac/snapshots/1bcbade907ed4d3c9c1ea81ee1898e68-00002.jpg)(title-)]
-
-
 ## 2.Streamlit使用简介（[官网使用教程](https://docs.streamlit.io/en/stable/index.html)）
 ### 2.1 安装和使用
 **安装**：pip install streamlit
